@@ -12,9 +12,15 @@ __Experience with:__ Java, Javascript, Ruby, Scala, C, Objective-C, XML, VXML, P
 
 ## Experience
 
+### Sykes Enter
+
+#### Software Engineer \[MAR.2013 - Present\]
+
+ * Absorbed by Sykes as part of a buyout of Alpine Access
+
 ### Alpine Access, Denver, CO
 
-#### Software Engineer \[AUG.2011 - Present\]
+#### Software Engineer \[AUG.2011 - FEB.2013\]
 
  * As part of a small team, created a new learning and recruiting product using Pinax
  * Developed and maintained the recruiting and admissions platforms
