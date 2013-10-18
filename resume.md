@@ -14,7 +14,7 @@ __Experience with:__ Java, Javascript, Scala, C, Objective-C, XML, VXML, PHP
 
 ### Trip30
 
-#### Senior Software Engineer \[Jun.2013 - Present\]
+#### Senior Software Engineer \[JUN.2013 - Present\]
 
   * Build out the toolchain, with the team, we use daily for development  
   * Partnered with others to design and develop a product from the ground up  
@@ -23,7 +23,7 @@ __Experience with:__ Java, Javascript, Scala, C, Objective-C, XML, VXML, PHP
 
 ### Sykes Enterprises
 
-#### Software Engineer \[MAR.2013 - Jun.2013\]
+#### Software Engineer \[MAR.2013 - JUN.2013\]
 
  * Absorbed by Sykes as part of a buyout of Alpine Access
  * As part of a small team help Pivot the direction of the admissions platform
